@@ -1,59 +1,53 @@
-class Solution {
-    class Pair{
-        int row;
-        int col;
-        int tm;
-        Pair(int _row, int _col, int _tm){
-            this.row = _row;
-            this.col = _col;
-            this.tm = _tm;
-        }
-    }
-    public int orangesRotting(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
+import java.util.*;
 
-        Queue<Pair> q = new LinkedList<>();
-        int[][] vis = new int[n][m];
-        int cntFresh = 0;
-        for(int i= 0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==2){
-                    q.add(new Pair(i,j,0));
-                    vis[i][j]=2;
-                }else{
-                    vis[i][j]=0;
+class Solution {
+    public int orangesRotting(int[][] grid) {
+        int rows = grid.length;
+        int cols = grid[0].length;
+        
+        Queue<int[]> queue = new LinkedList<>();
+        int fresh = 0;
+        
+        // Step 1: Count fresh & push rotten
+        for (int i = 0; i < rows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (grid[i][j] == 2) {
+                    queue.offer(new int[]{i, j});
+                } else if (grid[i][j] == 1) {
+                    fresh++;
                 }
-                if(grid[i][j]==1) cntFresh++;
             }
         }
+        
+        if (fresh == 0) return 0;
+        
+        int minutes = 0;
+        int[][] directions = {{1,0},{-1,0},{0,1},{0,-1}};
+        
+        // Step 2: BFS
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            boolean rottedThisMinute = false;
             
-            int tm = 0;
-            int[] drow = {-1,0,+1,0};
-            int[] dcol = {0,1,0,-1};
-            int cnt=0;
-
-            while(!q.isEmpty()){
-                int r = q.peek().row;
-                int c = q.peek().col;
-                int t = q.peek().tm;
-
-                tm = Math.max(tm,t);
-                q.remove();
-                for(int i =0;i<4;i++){
-                    int nrow = r+drow[i];
-                    int ncol = c + dcol[i];
-
-                    if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                        q.add(new Pair(nrow,ncol,t+1));
-                        vis[nrow][ncol]=2;
-                        cnt++;
+            for (int i = 0; i < size; i++) {
+                int[] curr = queue.poll();
+                
+                for (int[] dir : directions) {
+                    int r = curr[0] + dir[0];
+                    int c = curr[1] + dir[1];
+                    
+                    if (r >= 0 && r < rows && c >= 0 && c < cols && grid[r][c] == 1) {
+                        grid[r][c] = 2;
+                        queue.offer(new int[]{r, c});
+                        fresh--;
+                        rottedThisMinute = true;
                     }
                 }
             }
-
-            if(cnt!=cntFresh) return -1;
-            return tm;
-
+            
+            if (rottedThisMinute) minutes++;
+        }
+        
+        return fresh == 0 ? minutes : -1;
     }
 }
