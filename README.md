@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Anurag1023/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Breadth-First Search
 |  |
 | ------- |
