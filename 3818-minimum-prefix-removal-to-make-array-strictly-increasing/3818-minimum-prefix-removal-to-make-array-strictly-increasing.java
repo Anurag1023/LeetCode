@@ -1,9 +1,16 @@
 class Solution {
     public int minimumPrefixLength(int[] nums) {
-        int idx =0;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]<=nums[i-1]) idx = i;
+        int n = nums.length;
+
+        int i = n-2;
+
+        while(i >= 0 && nums[i] < nums[i+1]) {
+            i--;
         }
-        return idx;
+
+        if(i < 0) {
+            return 0;
+        }
+        return i + 1;
     }
 }
