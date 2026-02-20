@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Anurag1023/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
@@ -19,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Anurag1023/LeetCode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 ## Math
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
