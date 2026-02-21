@@ -1,25 +1,12 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        int primeCnt = 0;
-        for(int i = left; i<=right;i++){
-            int bitCnt = 0;
-            int num = i;
-            while(num!=0){
-                if((num & 1)==1){
-                    bitCnt++;
-                }
-                num>>=1;
-            }
-            if(check(bitCnt)) primeCnt++;
-        }
-        return primeCnt;
-    }
+        int count = 0;
+        Set<Integer> primes = Set.of(2,3,5,7,11,13,17,19,23,29,31);
 
-    private boolean check(int num){
-        if(num == 0 || num==1) return false;
-        for(int i=2;i<=num/2;i++){
-            if(num%i==0) return false;
+        for(int i = left; i <= right; i++){
+            int bits = Integer.bitCount(i);
+            if(primes.contains(bits)) count++;
         }
-        return true;
+        return count;
     }
 }
