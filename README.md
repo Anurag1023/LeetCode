@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Anurag1023/LeetCode/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Anurag1023/LeetCode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Union-Find
