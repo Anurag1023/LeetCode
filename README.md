@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Anurag1023/LeetCode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Union-Find
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
