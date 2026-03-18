@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anurag1023/LeetCode/tree/master/0127-word-ladder) |
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anurag1023/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -120,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 ## Hash Table
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anurag1023/LeetCode/tree/master/0127-word-ladder) |
+| [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anurag1023/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
