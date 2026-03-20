@@ -8,7 +8,7 @@ class Solution {
             mp.put(fruits[r], mp.getOrDefault(fruits[r],0)+1);
 
             while(mp.size()>2){
-                mp.put(fruits[l], mp.getOrDefault(fruits[l],0)-1);
+                mp.put(fruits[l], mp.get(fruits[l])-1);
                 
                 if(mp.get(fruits[l])==0){
                     mp.remove(fruits[l]);
