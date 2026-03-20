@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Anurag1023/LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Anurag1023/LeetCode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Anurag1023/LeetCode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Anurag1023/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Anurag1023/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Anurag1023/LeetCode/tree/master/0476-number-complement) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Anurag1023/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Anurag1023/LeetCode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Anurag1023/LeetCode/tree/master/0401-binary-watch) |
 ## Graph Theory
