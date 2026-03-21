@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anurag1023/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Anurag1023/LeetCode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3804-number-of-centered-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Anurag1023/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anurag1023/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anurag1023/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
