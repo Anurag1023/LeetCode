@@ -1,55 +1,43 @@
 class Solution {
-
     public int[] findOrder(int numCourses, int[][] prerequisites) {
+        int[] indegree = new int[numCourses];
+        List<List<Integer>> adj = new ArrayList<>();
 
-        List<List<Integer>> graph = new ArrayList<>();
-        for(int i = 0; i < numCourses; i++){
-            graph.add(new ArrayList<>());
+        for(int i=0;i<numCourses;i++) adj.add(new ArrayList<>());
+
+        for(int[] it: prerequisites){
+            adj.get(it[1]).add(it[0]);
+            indegree[it[0]]++;
         }
 
-        for(int[] p : prerequisites){
-            graph.get(p[1]).add(p[0]);
+        Queue<Integer> q = new LinkedList<>();
+        List<Integer> res = new ArrayList<>();
+
+        for(int i=0; i<numCourses;i++){
+            if(indegree[i]==0) q.offer(i);
         }
 
-        int[] state = new int[numCourses];
-        List<Integer> result = new ArrayList<>();
+        while(!q.isEmpty()){
+            int node = q.poll();
 
-        for(int i = 0; i < numCourses; i++){
-            if(state[i] == 0){
-                if(!dfs(i, graph, state, result)){
-                    return new int[0];
+            for(int nei: adj.get(node)){
+                indegree[nei]--;
+                if(indegree[nei]==0){
+                    q.offer(nei);
                 }
             }
+
+            res.add(node);
         }
 
-        Collections.reverse(result);
+        if(res.size()!=numCourses) return new int[0];
 
         int[] ans = new int[numCourses];
-        for(int i = 0; i < numCourses; i++){
-            ans[i] = result.get(i);
+
+        for(int i=0; i<numCourses; i++){
+            ans[i] = res.get(i);
         }
 
         return ans;
-    }
-
-    private boolean dfs(int node, List<List<Integer>> graph, int[] state, List<Integer> result){
-        // 0 = unvisited
-        // 1 = visiting
-        // 2 = visited
-        if(state[node] == 1) return false; // cycle
-        if(state[node] == 2) return true;
-
-        state[node] = 1;
-
-        for(int next : graph.get(node)){
-            if(!dfs(next, graph, state, result)){
-                return false;
-            }
-        }
-
-        state[node] = 2;
-        result.add(node);
-
-        return true;
     }
 }
