@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anurag1023/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anurag1023/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Anurag1023/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anurag1023/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anurag1023/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Depth-First Search
