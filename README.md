@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Anurag1023/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag1023/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
