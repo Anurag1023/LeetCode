@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Anurag1023/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Anurag1023/LeetCode/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/Anurag1023/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Anurag1023/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Anurag1023/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Anurag1023/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Anurag1023/LeetCode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Anurag1023/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Anurag1023/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Anurag1023/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Anurag1023/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Anurag1023/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Anurag1023/LeetCode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
@@ -298,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Anurag1023/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
