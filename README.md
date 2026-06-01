@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anurag1023/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag1023/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Counting
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anurag1023/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 ## Binary Search
