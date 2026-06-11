@@ -18,13 +18,12 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        if(grid[n-1][m-1]==1) return 0;
 
         if(posX>=  n|| posY>=m ) return 0;
 
-        if(posX == n-1 && posY == m-1)return 1;
-
         if(grid[posX][posY]==1) return 0;
+
+        if(posX == n-1 && posY == m-1)return 1;
 
         if(dp[posX][posY]!=-1) return dp[posX][posY];
 
