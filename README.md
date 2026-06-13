@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Anurag1023/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Anurag1023/LeetCode/tree/master/0217-contains-duplicate) |
+| [0416-partition-equal-subset-sum](https://github.com/Anurag1023/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Anurag1023/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Anurag1023/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Anurag1023/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anurag1023/LeetCode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Anurag1023/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
