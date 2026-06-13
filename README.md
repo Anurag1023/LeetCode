@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Anurag1023/LeetCode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3804-number-of-centered-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Anurag1023/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3838-weighted-word-mapping](https://github.com/Anurag1023/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anurag1023/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3838-weighted-word-mapping](https://github.com/Anurag1023/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anurag1023/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3838-weighted-word-mapping](https://github.com/Anurag1023/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
