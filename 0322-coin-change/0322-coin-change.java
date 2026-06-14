@@ -6,25 +6,25 @@ class Solution {
         for(int[] arr: dp){
             Arrays.fill(arr,-1);
         }
-        
-        int ans = helper(coins,amount,n-1,dp);
-        return ans==(int)1e9?-1:ans;
-    }
 
-    private int helper(int[] nums, int target, int ind, int[][] dp){
-        if(target==0) return dp[ind][target] = 0;
+        for(int t=0; t<=amount; t++){
 
-        if(ind==0){
-            if(target%nums[ind]==0){
-                return target/nums[ind];
-            }
-            else return (int)1e9;
+            if(t%coins[0]==0) dp[0][t] = t/coins[0];
+            else dp[0][t] = (int)1e9;
+
         }
 
-        if(dp[ind][target]!=-1) return dp[ind][target];
-        int take = (int)1e9;
-        if(target>=nums[ind]) take = 1 + helper(nums,target-nums[ind], ind,dp);
-        int notTake = helper(nums,target, ind-1,dp);
-        return dp[ind][target] = Math.min(take, notTake);
+        for(int ind=1; ind<n;ind++){
+            for(int target=0; target<=amount; target++){
+                if(dp[ind][target]!=-1) return dp[ind][target];
+                int take = (int)1e9;
+                if(target>=coins[ind]) take = 1 + dp[ind][target-coins[ind]];
+                int notTake = dp[ind-1][target];
+                dp[ind][target] = Math.min(take, notTake);
+            }
+        }
+        
+        int ans = dp[n-1][amount];
+        return ans==(int)1e9?-1:ans;
     }
 }
