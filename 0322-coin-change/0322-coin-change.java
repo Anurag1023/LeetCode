@@ -12,7 +12,7 @@ class Solution {
     }
 
     private int helper(int[] nums, int target, int ind, int[][] dp){
-        if(target==0) return 0;
+        if(target==0) return dp[ind][target] = 0;
 
         if(ind==0){
             if(target%nums[ind]==0){
