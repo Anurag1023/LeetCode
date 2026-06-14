@@ -16,7 +16,6 @@ class Solution {
 
         for(int ind=1; ind<n;ind++){
             for(int target=0; target<=amount; target++){
-                if(dp[ind][target]!=-1) return dp[ind][target];
                 int take = (int)1e9;
                 if(target>=coins[ind]) take = 1 + dp[ind][target-coins[ind]];
                 int notTake = dp[ind-1][target];
