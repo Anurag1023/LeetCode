@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1732-find-the-highest-altitude](https://github.com/Anurag1023/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anurag1023/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag1023/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anurag1023/LeetCode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Anurag1023/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anurag1023/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Game Theory
 |  |
