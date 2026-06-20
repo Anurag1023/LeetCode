@@ -17,11 +17,6 @@ class Solution {
                     continue;
                 }
 
-                if(i==0){
-                    if(j%coins[0]==0) dp[i][j]=1;
-                    else  dp[i][j] = 0;
-                }
-
                 int notTake = dp[i-1][j];
                 int take = 0;
                 if(coins[i]<=j) take = dp[i][j-coins[i]];
