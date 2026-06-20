@@ -1,31 +1,15 @@
 class Solution {
     public int change(int amount, int[] coins) {
-        int n = coins.length;
-        int[][] dp = new int[n][amount+1];
+        int[] dp = new int[amount+1];
 
-        for (int t = 0; t <= amount; t++) {
-            if (t % coins[0] == 0) {
-                dp[0][t] = 1;
+        dp[0]=1;
+
+        for(int coin: coins){
+            for(int j=coin;j<=amount;j++){
+                dp[j] += dp[j-coin];
             }
         }
-
-        for(int i=1;i<n;i++){
-            for(int j=0;j<=amount;j++){
-
-                if(j == 0){
-                    dp[i][j] = 1;
-                    continue;
-                }
-
-                int notTake = dp[i-1][j];
-                int take = 0;
-                if(coins[i]<=j) take = dp[i][j-coins[i]];
-
-                dp[i][j] = take + notTake;                
-
-            }
-        }
-
-        return dp[n-1][amount];
+        
+        return dp[amount];
     }
 }
