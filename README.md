@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anurag1023/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Anurag1023/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3804-number-of-centered-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/3804-number-of-centered-subarrays) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
