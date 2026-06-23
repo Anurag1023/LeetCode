@@ -18,8 +18,6 @@ class Solution {
 
         ans.add(temp);
 
-        int[][] result = ans.toArray(new int[0][]);
-
-        return result;
+        return ans.toArray(new int[0][]);
     }
 }
