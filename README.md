@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anurag1023/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Anurag1023/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Anurag1023/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anurag1023/LeetCode/tree/master/0070-climbing-stairs) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag1023/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Anurag1023/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
