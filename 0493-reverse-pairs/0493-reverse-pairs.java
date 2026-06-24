@@ -1,65 +1,51 @@
 class Solution {
+    private int count = 0;
+
     public int reversePairs(int[] nums) {
-        return mergeSort(nums, 0, nums.length - 1);
-    }
-
-    private int mergeSort(int[] nums, int low, int high) {
-        if (low >= high) return 0;
-
-        int mid = low + (high - low) / 2;
-
-        int count = 0;
-        count += mergeSort(nums, low, mid);
-        count += mergeSort(nums, mid + 1, high);
-
-        // Count reverse pairs
-        count += countPairs(nums, low, mid, high);
-
-        // Merge the two sorted halves
-        merge(nums, low, mid, high);
-
+        mergeSort(nums, 0, nums.length - 1);
         return count;
     }
 
-    private int countPairs(int[] nums, int low, int mid, int high) {
-        int count = 0;
-        int right = mid + 1;
+    private void mergeSort(int[] nums, int l, int r) {
+        if (l >= r) return;
 
-        for (int left = low; left <= mid; left++) {
-            while (right <= high && (long) nums[left] > 2L * nums[right]) {
-                right++;
-            }
-            count += right - (mid + 1);
-        }
+        int mid = l + (r - l) / 2;
 
-        return count;
+        mergeSort(nums, l, mid);
+        mergeSort(nums, mid + 1, r);
+
+        countPairs(nums, l, mid, r);
+        merge(nums, l, mid, r);
     }
 
-    private void merge(int[] nums, int low, int mid, int high) {
-        int[] temp = new int[high - low + 1];
+    private void countPairs(int[] nums, int l, int mid, int r) {
+        int j = mid + 1;
 
-        int left = low;
-        int right = mid + 1;
-        int idx = 0;
-
-        while (left <= mid && right <= high) {
-            if (nums[left] <= nums[right]) {
-                temp[idx++] = nums[left++];
-            } else {
-                temp[idx++] = nums[right++];
+        for (int i = l; i <= mid; i++) {
+            while (j <= r && (long) nums[i] > 2L * nums[j]) {
+                j++;
             }
+            count += j - (mid + 1);
+        }
+    }
+
+    private void merge(int[] nums, int l, int mid, int r) {
+        int[] temp = new int[r - l + 1];
+
+        int i = l, j = mid + 1, k = 0;
+
+        while (i <= mid && j <= r) {
+            if (nums[i] <= nums[j])
+                temp[k++] = nums[i++];
+            else
+                temp[k++] = nums[j++];
         }
 
-        while (left <= mid) {
-            temp[idx++] = nums[left++];
-        }
+        while (i <= mid) temp[k++] = nums[i++];
+        while (j <= r) temp[k++] = nums[j++];
 
-        while (right <= high) {
-            temp[idx++] = nums[right++];
-        }
-
-        for (int i = 0; i < temp.length; i++) {
-            nums[low + i] = temp[i];
+        for (int p = 0; p < temp.length; p++) {
+            nums[l + p] = temp[p];
         }
     }
 }
