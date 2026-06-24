@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag1023/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Anurag1023/LeetCode/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anurag1023/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Anurag1023/LeetCode/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anurag1023/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anurag1023/LeetCode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag1023/LeetCode/tree/master/0217-contains-duplicate) |
 | [0525-contiguous-array](https://github.com/Anurag1023/LeetCode/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Anurag1023/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag1023/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
