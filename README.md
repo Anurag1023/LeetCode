@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anurag1023/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag1023/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anurag1023/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anurag1023/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Anurag1023/LeetCode/tree/master/0525-contiguous-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anurag1023/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Anurag1023/LeetCode/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anurag1023/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag1023/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -419,4 +422,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anurag1023/LeetCode/tree/master/0050-powx-n) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
