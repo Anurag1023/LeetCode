@@ -10,27 +10,36 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Deque<Integer> st = new LinkedList<>();
+        head = reverse(head);
+        int max = head.val;
 
         ListNode curr = head;
-        while(curr!=null){
-            st.push(curr.val);
-            curr = curr.next;
-        }
 
-        curr = new ListNode(st.pop());
-
-        while(!st.isEmpty()){
-            Integer val = st.pop();
-            if(curr.val>val) continue;
-            else{
-                ListNode node = new ListNode(val);
-                node.next = curr;
-                curr = node;
+        while(curr!=null && curr.next!=null){
+            if(curr.next.val >= max){
+                curr = curr.next;
+                max = curr.val;
+            }else{
+                curr.next = curr.next.next;
             }
         }
 
-        return curr;
+        return reverse(head);
+    }
 
+    private ListNode reverse(ListNode head){
+        ListNode prev = null;
+        ListNode next = null;
+        ListNode curr = head;
+
+        while(curr!=null){
+
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
     }
 }
