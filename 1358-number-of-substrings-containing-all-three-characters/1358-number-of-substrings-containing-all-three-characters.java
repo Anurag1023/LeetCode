@@ -1,18 +1,13 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int l = 0;
-        int[] ch = new int[3];
-        int cnt = 0;
-        for(int r=0;r<s.length();r++){
-            char c = s.charAt(r);
-            ch[c-'a']++;
-            while(ch[0]>0 && ch[1]>0 && ch[2]>0){
-                c = s.charAt(l);
-                ch[c-'a']--;
-                l++;
-            }
-            cnt += l;
+        int[] last = {-1, -1, -1};
+        int ans = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
+            ans += Math.min(last[0], Math.min(last[1], last[2])) + 1;
         }
-        return cnt;
+
+        return ans;
     }
 }
