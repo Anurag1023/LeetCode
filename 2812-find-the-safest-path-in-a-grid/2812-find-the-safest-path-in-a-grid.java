@@ -23,11 +23,9 @@ class Solution {
         }
 
         while (!q.isEmpty()) {
-
             int[] cur = q.poll();
 
             for (int[] d : dir) {
-
                 int nr = cur[0] + d[0];
                 int nc = cur[1] + d[1];
 
@@ -42,64 +40,46 @@ class Solution {
             }
         }
 
-        int low = 0;
-        int high = 2 * (n - 1);
-        int ans = 0;
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
 
-        while (low <= high) {
+        int[][] best = new int[n][n];
+        for (int[] row : best)
+            Arrays.fill(row, -1);
 
-            int mid = low + (high - low) / 2;
+        best[0][0] = dist[0][0];
+        pq.offer(new int[]{dist[0][0], 0, 0});
 
-            if (canReach(dist, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
+        while (!pq.isEmpty()) {
 
-        return ans;
-    }
+            int[] cur = pq.poll();
 
-    private boolean canReach(int[][] dist, int safe) {
+            int safe = cur[0];
+            int r = cur[1];
+            int c = cur[2];
 
-        int n = dist.length;
+            if (r == n - 1 && c == n - 1)
+                return safe;
 
-        if (dist[0][0] < safe)
-            return false;
-
-        Queue<int[]> q = new LinkedList<>();
-        boolean[][] vis = new boolean[n][n];
-
-        q.offer(new int[]{0, 0});
-        vis[0][0] = true;
-
-        while (!q.isEmpty()) {
-
-            int[] cur = q.poll();
-
-            if (cur[0] == n - 1 && cur[1] == n - 1)
-                return true;
+            if (safe < best[r][c])
+                continue;
 
             for (int[] d : dir) {
 
-                int nr = cur[0] + d[0];
-                int nc = cur[1] + d[1];
+                int nr = r + d[0];
+                int nc = c + d[1];
 
                 if (nr < 0 || nc < 0 || nr >= n || nc >= n)
                     continue;
 
-                if (vis[nr][nc])
-                    continue;
+                int nextSafe = Math.min(safe, dist[nr][nc]);
 
-                if (dist[nr][nc] < safe)
-                    continue;
-
-                vis[nr][nc] = true;
-                q.offer(new int[]{nr, nc});
+                if (nextSafe > best[nr][nc]) {
+                    best[nr][nc] = nextSafe;
+                    pq.offer(new int[]{nextSafe, nr, nc});
+                }
             }
         }
 
-        return false;
+        return 0;
     }
 }
