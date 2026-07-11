@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anurag1023/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Anurag1023/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anurag1023/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Anurag1023/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Anurag1023/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anurag1023/LeetCode/tree/master/0070-climbing-stairs) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Anurag1023/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anurag1023/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anurag1023/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Anurag1023/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
