@@ -1,64 +1,32 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        int[] nums = new int[n];
-        for (int i = 1; i <= n; i++) {
-            nums[i - 1] = i;
+
+        List<Integer> nums = new ArrayList<>();
+        int fact = 1;
+
+        for (int i = 1; i < n; i++) {
+            fact *= i;
+            nums.add(i);
         }
-        k--;
-        while (k-- > 0) {
-            nextPermutation(nums);
-        }
+        nums.add(n);
 
-        StringBuilder sb = new StringBuilder();
+        k--; // convert to 0-indexed
 
-        for (int num : nums) {
-            sb.append(num);
-        }
+        StringBuilder ans = new StringBuilder();
 
-        return sb.toString();
-    }
+        while (true) {
 
-    public void nextPermutation(int[] nums) {
-        int dip = -1;
-        int n = nums.length;
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                dip = i;
+            int index = k / fact;
+            ans.append(nums.get(index));
+            nums.remove(index);
+
+            if (nums.size() == 0)
                 break;
-            }
+
+            k %= fact;
+            fact /= nums.size();
         }
 
-        if (dip == -1) {
-            int left = 0, right = n - 1;
-
-            while (left < right) {
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
-
-                left++;
-                right--;
-            }
-        } else {
-
-            for (int i = n - 1; i > dip; i--) {
-                if (nums[i] > nums[dip]) {
-                    int temp = nums[i];
-                    nums[i] = nums[dip];
-                    nums[dip] = temp;
-                    break;
-                }
-            }
-
-            int left = dip + 1;
-            int right = n - 1;
-            while (left < right) {
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
-                left++;
-                right--;
-            }
-        }
+        return ans.toString();
     }
 }
