@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag1023/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Anurag1023/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Anurag1023/LeetCode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anurag1023/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anurag1023/LeetCode/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anurag1023/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anurag1023/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Anurag1023/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anurag1023/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Anurag1023/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anurag1023/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anurag1023/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anurag1023/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Anurag1023/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag1023/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Anurag1023/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anurag1023/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Anurag1023/LeetCode/tree/master/0322-coin-change) |
@@ -495,11 +499,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anurag1023/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Anurag1023/LeetCode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
