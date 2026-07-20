@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anurag1023/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Anurag1023/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anurag1023/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anurag1023/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/Anurag1023/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Anurag1023/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Anurag1023/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3838-weighted-word-mapping](https://github.com/Anurag1023/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
