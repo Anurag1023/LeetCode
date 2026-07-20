@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anurag1023/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Anurag1023/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anurag1023/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anurag1023/LeetCode/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anurag1023/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anurag1023/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anurag1023/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anurag1023/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anurag1023/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anurag1023/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anurag1023/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Anurag1023/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anurag1023/LeetCode/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag1023/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anurag1023/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
