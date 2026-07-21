@@ -14,12 +14,10 @@ class Solution {
             hm.put(st.pop(),-1);
         }
 
-        int[] ans = new int[nums1.length];
-
         for(int i=0;i<nums1.length; i++){
-            ans[i] = hm.get(nums1[i]);
+            nums1[i] = hm.get(nums1[i]);
         }
 
-        return ans;
+        return nums1;
     }
 }
