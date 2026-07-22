@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anurag1023/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anurag1023/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anurag1023/LeetCode/tree/master/0229-majority-element-ii) |
+| [0460-lfu-cache](https://github.com/Anurag1023/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Anurag1023/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Anurag1023/LeetCode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Anurag1023/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Anurag1023/LeetCode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
@@ -595,8 +597,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anurag1023/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Anurag1023/LeetCode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anurag1023/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Anurag1023/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
