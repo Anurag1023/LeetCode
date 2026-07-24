@@ -1,6 +1,6 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        int repeat = (b.length() + a.length() - 1) / a.length();
+        int repeat = (int)Math.ceil((float)b.length() / a.length());
 
         StringBuilder sb = new StringBuilder();
 
