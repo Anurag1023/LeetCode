@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anurag1023/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag1023/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag1023/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anurag1023/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag1023/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anurag1023/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
