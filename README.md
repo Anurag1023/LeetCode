@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anurag1023/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Anurag1023/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Anurag1023/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag1023/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag1023/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Anurag1023/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Anurag1023/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag1023/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Anurag1023/LeetCode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Anurag1023/LeetCode/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/Anurag1023/LeetCode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -633,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Anurag1023/LeetCode/tree/master/0686-repeated-string-match) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anurag1023/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
