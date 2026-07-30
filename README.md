@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anurag1023/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anurag1023/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anurag1023/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag1023/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anurag1023/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anurag1023/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
