@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anurag1023/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Anurag1023/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Anurag1023/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Anurag1023/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anurag1023/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Anurag1023/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Anurag1023/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Anurag1023/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anurag1023/LeetCode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Anurag1023/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag1023/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anurag1023/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Anurag1023/LeetCode/tree/master/0877-stone-game) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anurag1023/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Anurag1023/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Anurag1023/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Anurag1023/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anurag1023/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Anurag1023/LeetCode/tree/master/0542-01-matrix) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Anurag1023/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anurag1023/LeetCode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Anurag1023/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Anurag1023/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
