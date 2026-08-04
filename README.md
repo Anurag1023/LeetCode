@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurag1023/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anurag1023/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anurag1023/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anurag1023/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anurag1023/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anurag1023/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anurag1023/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Anurag1023/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anurag1023/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anurag1023/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Anurag1023/LeetCode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Anurag1023/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anurag1023/LeetCode/tree/master/0455-assign-cookies) |
