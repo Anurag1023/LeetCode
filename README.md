@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag1023/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anurag1023/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anurag1023/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anurag1023/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anurag1023/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Anurag1023/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Anurag1023/LeetCode/tree/master/0494-target-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/Anurag1023/LeetCode/tree/master/3457-eat-pizzas) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anurag1023/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -697,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Anurag1023/LeetCode/tree/master/0901-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
