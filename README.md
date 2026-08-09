@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag1023/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anurag1023/LeetCode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag1023/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Anurag1023/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Anurag1023/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Anurag1023/LeetCode/tree/master/0494-target-sum) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Graph Theory
 |  |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anurag1023/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1540-can-convert-string-in-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag1023/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anurag1023/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anurag1023/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Anurag1023/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag1023/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anurag1023/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Anurag1023/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anurag1023/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3457-eat-pizzas](https://github.com/Anurag1023/LeetCode/tree/master/3457-eat-pizzas) |
@@ -601,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anurag1023/LeetCode/tree/master/0062-unique-paths) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
