@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1732-find-the-highest-altitude](https://github.com/Anurag1023/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag1023/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag1023/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anurag1023/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anurag1023/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag1023/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag1023/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anurag1023/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anurag1023/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anurag1023/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anurag1023/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anurag1023/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/Anurag1023/LeetCode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anurag1023/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anurag1023/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
