@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anurag1023/LeetCode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anurag1023/LeetCode/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anurag1023/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anurag1023/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anurag1023/LeetCode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anurag1023/LeetCode/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag1023/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
