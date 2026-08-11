@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag1023/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag1023/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3457-eat-pizzas](https://github.com/Anurag1023/LeetCode/tree/master/3457-eat-pizzas) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/1540-can-convert-string-in-k-moves) |
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag1023/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anurag1023/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anurag1023/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anurag1023/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag1023/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3457-eat-pizzas](https://github.com/Anurag1023/LeetCode/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/Anurag1023/LeetCode/tree/master/3467-transform-array-by-parity) |
