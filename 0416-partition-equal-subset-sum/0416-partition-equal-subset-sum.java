@@ -1,26 +1,63 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int sum = 0;
-        for(int x : nums) sum += x;
+        int n = nums.length;
 
-        if(sum % 2 != 0) return false;
+        int sum = 0;
+        for (int num : nums) {
+            sum += num;
+        }
+
+        // Odd total cannot be divided equally
+        if (sum % 2 != 0) {
+            return false;
+        }
 
         int target = sum / 2;
 
-        Boolean[][] dp = new Boolean[nums.length][target + 1];
+        int[][] dp = new int[n + 1][target + 1];
 
-        return helper(nums, nums.length - 1, target, dp);
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
+        return helper(n, target, nums, dp);
     }
 
-    private boolean helper(int[] nums, int ind, int target, Boolean[][] dp) {
-        if(target == 0) return true;
-        if(ind < 0 || target < 0) return false;
+    private boolean helper(int i, int target, int[] nums, int[][] dp) {
 
-        if(dp[ind][target] != null)
-            return dp[ind][target];
+        // Found required subset
+        if (target == 0) {
+            return true;
+        }
 
-        return dp[ind][target] =
-                helper(nums, ind - 1, target, dp) ||
-                helper(nums, ind - 1, target - nums[ind], dp);
+        // No elements left
+        if (i == 0) {
+            return false;
+        }
+
+        if (dp[i][target] != -1) {
+            return dp[i][target] == 1;
+        }
+
+        // Don't take nums[i-1]
+        boolean not = helper(i - 1, target, nums, dp);
+
+        // Take nums[i-1]
+        boolean take = false;
+
+        if (nums[i - 1] <= target) {
+            take = helper(
+                i - 1,
+                target - nums[i - 1],
+                nums,
+                dp
+            );
+        }
+
+        boolean ans = take || not;
+
+        dp[i][target] = ans ? 1 : 0;
+
+        return ans;
     }
 }
