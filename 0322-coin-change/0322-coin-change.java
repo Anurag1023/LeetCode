@@ -1,35 +1,37 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
-        int[][] dp = new int[n][amount+1];
+        int INF = Integer.MAX_VALUE - 1;
 
-        for(int[] a:dp) Arrays.fill(a,Integer.MAX_VALUE);
+        int[][] dp = new int[n + 1][amount + 1];
 
-        int ans = helper(n - 1, amount, coins,dp);
-
-        return ans == Integer.MAX_VALUE - 1 ? -1 : ans;
-    }
-
-    private int helper(int i, int amount, int[] coins,int[][] dp) {
-
-        if (amount == 0) {
-            return 0;
+        // 0 coins needed to make amount 0
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = 0;
         }
 
-        if (i < 0) {
-            return Integer.MAX_VALUE - 1;
+        // Impossible initially
+        for (int j = 1; j <= amount; j++) {
+            dp[0][j] = INF;
         }
 
-        if(dp[i][amount]!=Integer.MAX_VALUE) return dp[i][amount];
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= amount; j++) {
 
-        int not = helper(i - 1, amount, coins,dp);
+                // Don't take coin
+                int not = dp[i - 1][j];
 
-        int take = Integer.MAX_VALUE - 1;
+                // Take coin
+                int take = INF;
 
-        if (amount >= coins[i]) {
-            take = 1 + helper(i, amount - coins[i], coins,dp);
+                if (coins[i - 1] <= j) {
+                    take = 1 + dp[i][j - coins[i - 1]];
+                }
+
+                dp[i][j] = Math.min(take, not);
+            }
         }
 
-        return dp[i][amount] = Math.min(take, not);
+        return dp[n][amount] == INF ? -1 : dp[n][amount];
     }
 }
