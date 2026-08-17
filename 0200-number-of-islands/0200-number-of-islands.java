@@ -1,48 +1,48 @@
 class Solution {
-
     public int numIslands(char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int[][] vis = new int[n][m];
-        int cnt = 0;
+        int m = grid.length;
+        int n = grid[0].length;
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == '1' && vis[i][j] == 0){
-                    cnt++;
-                    bfs(grid, vis, i, j);
+        int count = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                if (grid[i][j] == '1') {
+                    count++;
+                    dfs(grid, i, j);
                 }
             }
         }
-        return cnt;
+
+        return count;
     }
 
-    private void bfs(char[][] grid, int[][] vis, int i, int j){
-        Queue<int[]> q = new LinkedList<>();
-        vis[i][j] = 1;
-        q.offer(new int[]{i, j});
+    private void dfs(char[][] grid, int row, int col) {
 
-        int n = grid.length;
-        int m = grid[0].length;
+        int m = grid.length;
+        int n = grid[0].length;
 
-        int[] drow = {-1, 0, 1, 0};
-        int[] dcol = {0, 1, 0, -1};
-
-        while(!q.isEmpty()){
-            int[] data = q.poll();
-            int row = data[0];
-            int col = data[1];
-
-            for(int k = 0; k < 4; k++){
-                int nrow = row + drow[k];
-                int ncol = col + dcol[k];
-
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m 
-                   && grid[nrow][ncol] == '1' && vis[nrow][ncol] == 0){
-                    vis[nrow][ncol] = 1;
-                    q.offer(new int[]{nrow, ncol});
-                }
-            }
+        // Boundary or water
+        if (row < 0 || row >= m ||
+            col < 0 || col >= n ||
+            grid[row][col] == '0') {
+            return;
         }
+
+        // Mark as visited
+        grid[row][col] = '0';
+
+        // Up
+        dfs(grid, row - 1, col);
+
+        // Down
+        dfs(grid, row + 1, col);
+
+        // Left
+        dfs(grid, row, col - 1);
+
+        // Right
+        dfs(grid, row, col + 1);
     }
 }
