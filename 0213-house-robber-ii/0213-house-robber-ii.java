@@ -1,26 +1,29 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        if(n==1) return nums[0];
-        return Math.max( helper(nums,0,n-2), helper(nums,1,n-1));
+
+        if (n == 1) return nums[0];
+
+        return Math.max(
+            helper(nums, 0, n - 2),
+            helper(nums, 1, n - 1)
+        );
     }
 
-    private int helper(int[] nums, int start, int end){
-        
-        int prev1 = 0;
-        int prev2 = 0;
+    private int helper(int[] nums, int start, int end) {
+        int len = end - start + 1;
+        int[] dp = new int[len + 1];
 
-        for(int i=start; i<= end; i++){
-            
-            int take = nums[i];
-            if(i>1) take+= prev2;
-            int notTake = prev1;
+        dp[0] = 0;
+        dp[1] = nums[start];
 
-            int curr = Math.max(take, notTake);
+        for (int i = 2; i <= len; i++) {
+            int take = nums[start + i - 1] + dp[i - 2];
+            int notTake = dp[i - 1];
 
-            prev2 = prev1;
-            prev1 = curr;
+            dp[i] = Math.max(take, notTake);
         }
-        return prev1;
+
+        return dp[len];
     }
 }
