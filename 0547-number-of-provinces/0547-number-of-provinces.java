@@ -1,25 +1,37 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        boolean[] visited = new boolean[n];
-        int provinces = 0;
-        
+        boolean[] vis = new boolean[n];
+
+        int ans = 0;
+
         for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(isConnected, visited, i);
-                provinces++;
+            if (!vis[i]) {
+                bfs(i, vis, isConnected);
+                ans++;
             }
         }
-        
-        return provinces;
+
+        return ans;
     }
-    
-    private void dfs(int[][] isConnected, boolean[] visited, int city) {
-        visited[city] = true;
-        
-        for (int i = 0; i < isConnected.length; i++) {
-            if (isConnected[city][i] == 1 && !visited[i]) {
-                dfs(isConnected, visited, i);
+
+    private void bfs(int i, boolean[] vis, int[][] isConnected) {
+
+        vis[i] = true;
+
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(i);
+
+        while (!q.isEmpty()) {
+
+            int node = q.poll();
+
+            for (int neigh = 0; neigh < isConnected.length; neigh++) {
+
+                if (isConnected[node][neigh] == 1 && !vis[neigh]) {
+                    q.offer(neigh);
+                    vis[neigh] = true;
+                }
             }
         }
     }
