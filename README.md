@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2498-frog-jump-ii](https://github.com/Anurag1023/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anurag1023/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Anurag1023/LeetCode/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Anurag1023/LeetCode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2498-frog-jump-ii](https://github.com/Anurag1023/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2611-mice-and-cheese](https://github.com/Anurag1023/LeetCode/tree/master/2611-mice-and-cheese) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Anurag1023/LeetCode/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Anurag1023/LeetCode/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anurag1023/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Anurag1023/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Anurag1023/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2498-frog-jump-ii](https://github.com/Anurag1023/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anurag1023/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anurag1023/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
