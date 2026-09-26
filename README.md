@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Anurag1023/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anurag1023/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anurag1023/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Anurag1023/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1124-longest-well-performing-interval](https://github.com/Anurag1023/LeetCode/tree/master/1124-longest-well-performing-interval) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [0890-find-and-replace-pattern](https://github.com/Anurag1023/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag1023/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anurag1023/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Anurag1023/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Anurag1023/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Anurag1023/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Anurag1023/LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Anurag1023/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag1023/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anurag1023/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anurag1023/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Anurag1023/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Anurag1023/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anurag1023/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [1124-longest-well-performing-interval](https://github.com/Anurag1023/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1189-maximum-number-of-balloons](https://github.com/Anurag1023/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag1023/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anurag1023/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Anurag1023/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Anurag1023/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Anurag1023/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Anurag1023/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anurag1023/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -591,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anurag1023/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anurag1023/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Anurag1023/LeetCode/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/Anurag1023/LeetCode/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Anurag1023/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anurag1023/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Anurag1023/LeetCode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
