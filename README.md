@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anurag1023/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/Anurag1023/LeetCode/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Anurag1023/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2484-count-palindromic-subsequences](https://github.com/Anurag1023/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anurag1023/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anurag1023/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag1023/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Anurag1023/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Anurag1023/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Anurag1023/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2484-count-palindromic-subsequences](https://github.com/Anurag1023/LeetCode/tree/master/2484-count-palindromic-subsequences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anurag1023/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anurag1023/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anurag1023/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
