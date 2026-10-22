@@ -1,42 +1,45 @@
 class Solution {
     public int minOperations(int[] nums) {
         int n = nums.length;
-        int zero = 0;
+        int idx = -1;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
-                zero = i;
+        for(int i = 0; i<n; i++){
+            if(nums[i] == 0){
+                idx = i;
                 break;
             }
         }
 
-        int ans = Integer.MAX_VALUE;
+        boolean isInc = true;
+        boolean isDec = true;
 
-        if (check(nums, zero, 1)) {
-            ans = Math.min(ans, zero);
-            ans = Math.min(ans, n - zero + 2);
+        for(int i=0; i<n; i++){
+            int curr = nums[(idx + i) % n];
+            int increase = i;
+            int decrease = (n - i) % n;
+
+            if(curr != increase) isInc = false;
+            if(curr != decrease) isDec = false;
         }
 
-        if (check(nums, zero, -1)) {
-            ans = Math.min(ans, zero + 2);
-            ans = Math.min(ans, n - zero);
+        int minOp = Integer.MAX_VALUE; 
+        
+        if(isInc){
+            int optA = idx;
+
+            int optB = n - idx + 2;
+
+            minOp = Math.min(optA, optB);
         }
 
-        return ans == Integer.MAX_VALUE ? -1 : ans;
-    }
+        if(isDec){
+            int optA = idx + 2;
 
-    private boolean check(int[] nums, int zero, int step) {
-        int n = nums.length;
+            int optB = n - idx;
 
-        for (int i = 1; i < n; i++) {
-            int prev = (zero + (i - 1) * step + n) % n;
-            int curr = (zero + i * step + n) % n;
-
-            if (nums[prev] > nums[curr]) {
-                return false;
-            }
+            minOp = Math.min(minOp ,Math.min(optA, optB));
         }
 
-        return true;
+        return minOp == Integer.MAX_VALUE ? -1 : minOp;
     }
 }
